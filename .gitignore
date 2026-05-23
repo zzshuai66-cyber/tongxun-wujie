@@ -1,0 +1,9 @@
+*.pptx
+*.pdf
+*.docx
+*.jpg
+_images/
+launch.py
+fix_layout.py
+embed_images.py
+*.bat
